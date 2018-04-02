@@ -2,6 +2,6 @@ package com.test1.dom;
 
 public class TestStudent {
     public void add(){
-        System.out.print("撞我大海贼");
+        System.out.print("桂雨网is dog");
     }
 }
